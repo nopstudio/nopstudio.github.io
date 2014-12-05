@@ -1,10 +1,10 @@
-$ cd repository
+$ cd nopstudio.github.io
 $ git fetch origin
 remote: Counting objects: 92, done.
 remote: Compressing objects: 100% (63/63), done.
 remote: Total 68 (delta 41), reused 0 (delta 0)
 Unpacking objects: 100% (68/68), done.
-From https://github.com/user/repo.git
+From https://github.com/nopstudio/repo.git
 * [new branch]      gh-pages     -> origin/gh-pages
 
 $ git checkout gh-pages

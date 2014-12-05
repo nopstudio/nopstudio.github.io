@@ -1,0 +1,5 @@
+$ dig nopstudio.me +nostats +nocomments +nocmd
+;nopstudio.me.                     IN      A
+nopstudio.me.              3592    IN      CNAME   nopstudio.github.io.
+nopstudio.github.io.           43192   IN      CNAME   github.map.fastly.net.
+github.map.fastly.net.        22      IN      A       199.27.76.133
